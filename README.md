@@ -22,7 +22,7 @@ Hi!
 ## Education 📚
 
 Faculty Engineering Mechatronic and Robotics , 2022
- Expected Graduation :2027
+<p></p> Expected Graduation :2027</P>
 
 ## Skills and Technologies 🛠 
 - Programming Languages: C/C++ , Embedded C.
